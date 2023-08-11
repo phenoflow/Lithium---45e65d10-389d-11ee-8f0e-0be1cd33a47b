@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/lithium-m4-liliquid---primary.py
+inputModule3:
+  class: File
+  path: python/lithium-m4-509mg---primary.py
+inputModule4:
+  class: File
+  path: python/lithium-m4-520mg---primary.py
+inputModule5:
+  class: File
+  path: python/lithium-m4-camcolit---primary.py
+inputModule6:
+  class: File
+  path: python/lithium-m4-1018g---primary.py
+inputModule7:
+  class: File
+  path: python/lithium-m4-564mg---primary.py
+inputModule8:
+  class: File
+  path: python/lithium-m4-400mg---primary.py
+inputModule9:
+  class: File
+  path: python/lithium-m4-450mg---primary.py
+inputModule10:
+  class: File
+  path: python/lithium-m4-300mg---primary.py
+inputModule11:
+  class: File
+  path: python/lithium-m4-200mg---primary.py
+inputModule12:
+  class: File
+  path: python/lithium-m4-priadel---primary.py
+inputModule13:
+  class: File
+  path: python/lithium-m4-carbonate---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
